@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <title>sample</title>
     <meta name="description" content="practice">
+    <link rel="stylesheet.css" href="style.css">
   </head>
 
   <body>
