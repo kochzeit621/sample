@@ -1,0 +1,111 @@
+@charset "UTF-8":
+
+body {
+  background-color: #fffeee ;
+}
+
+ul {
+list-style: none;
+}
+
+header {
+ height: 50px;
+ width: auto;
+ background-color: rgba(0,0,0,0.5);
+}
+
+.header left-wrapper {
+ float: left;
+
+.header right-wrapper {
+  float: right;
+ }
+
+ li{
+ padding: auto 15px;
+ color: white;
+ }
+
+ li:hover {
+
+ }
+
+main{
+height: 1200px;
+width: auto;
+background-color: rgba(0,0,0,0.5);
+}
+
+.main home-wrapper{
+height: 600px;
+width: auto;
+background-image: url="#" ;
+}
+
+.home-wrapper contents{
+margin:100px auto ;
+
+}
+
+h1 {
+font-weight: normal;
+color:  rgba(255,255,255,0.7);
+letter-spacing: 5px;
+text-align: center;
+}
+
+.main home-wrapper p{
+color: rgba (255,255,255,0.7);
+text-align: center;
+}
+
+.btn1 {
+color: rgba (255,255,255,0.7);
+font-size: 16px;
+background-color: rega(246,118,144,0.7);
+border-radius: 5px;
+padding: 10px 20px;
+style: inline-block;
+}
+
+.btn-wrapper p{
+text-align: center;
+margin: 10px auto;
+}
+
+.btn2 {
+color: rgba (255,255,255,0.7);
+font-size: 16px;
+background-color: rega(59,130,196,0.7);
+border-radius: 5px;
+padding: 10px 20px;
+style: inline-block;
+}
+
+.btn3 {
+color: rgba (255,255,255,0.7);
+font-size: 16px;
+background-color: rega(73,145,73,0.7);
+border-radius: 5px;
+padding: 10px 20px;
+style: inline-block;
+}
+
+.main lessons-wrapper{
+height: 400px;
+width: auto;
+background-color: rgba(174,181,220,0.9);
+}s
+
+.main message-wrapper{
+height: 250px;
+width: auto;
+background-color: rgba(247,239, 162,0.9);
+}
+
+
+footer{
+height: 100px;
+width: auto;
+background-color: rgba(255,255,255,0.5);
+}
