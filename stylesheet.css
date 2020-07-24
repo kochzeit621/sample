@@ -8,20 +8,20 @@ ul {
 list-style: none;
 }
 
-header {
+header{
  height: 50px;
  width: auto;
  background-color: rgba(0,0,0,0.5);
 }
 
-.header left-wrapper {
+.left-wrapper {
  float: left;
 
-.header right-wrapper {
+.right-wrapper {
   float: right;
  }
 
- li{
+.right-wrapper li{
  padding: auto 15px;
  color: white;
  }
