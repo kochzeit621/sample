@@ -34,6 +34,11 @@ header{
  width: 124px;
 }
 
+.header-left a{
+ color:white;
+ font-size: 25px;
+}
+
 .header-right{
  float: right;
  margin-right: -25px;
