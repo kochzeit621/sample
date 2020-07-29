@@ -35,8 +35,8 @@ header{
 }
 
 .header-left a{
- color:white;
- font-size: 45px;
+ color:rgba(255,255,255,0.7);
+ font-size: 30px;
 }
 
 .header-right{
@@ -47,7 +47,7 @@ header{
 .header-right a{
 line-height: 65px;
 padding: 0 25px;
-color:rgba(255,255,255,1)
+color:rgba(255,255,255,1);
 display: inline-block;
 float: left;
 transition: all 0.5s;
