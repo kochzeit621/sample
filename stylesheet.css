@@ -100,16 +100,16 @@ border-radius: 4px;
 text-align: center;
 }
 
-.btn signup{
+.btn-signup{
  background-color: rgba(255,153,204,0.8);
 }
 
-.btn facebook{
+.btn-facebook{
  background-color: rgba(30,144,255,0.8);
  margin-right: 10px;
 }
 
-.btn twitter{
+.btn-twitter{
   background-color: rgba(135,206,235,0.8);
 }
 
