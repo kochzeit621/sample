@@ -35,7 +35,7 @@ header{
 }
 
 .header-left a{
- color:rgba(255,255,255,0.7);
+ color:rgba(255,255,255,0.9);
  font-size: 30px;
 }
 
@@ -102,15 +102,30 @@ text-align: center;
 
 .btn-signup{
  background-color: rgba(255,153,204,0.8);
+ padding: 8px 24px;
+color: white;
+display: inline-block;
+border-radius: 4px;
+text-align: center;
 }
 
 .btn-facebook{
  background-color: rgba(30,144,255,0.8);
  margin-right: 10px;
+ padding: 8px 24px;
+color: white;
+display: inline-block;
+border-radius: 4px;
+text-align: center;
 }
 
 .btn-twitter{
   background-color: rgba(135,206,235,0.8);
+ padding: 8px 24px;
+color: white;
+display: inline-block;
+border-radius: 4px;
+text-align: center;
 }
 
 .btn: hover{
