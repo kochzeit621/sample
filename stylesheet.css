@@ -190,6 +190,7 @@ background-color: #f7f7f7;
  background-color: #5dca88;
  cursor: pointer;
  box-shadow: 0 7px #1a7940;
+ border-radius: 4px;
 }
 
 .btn-message :active{
