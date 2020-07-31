@@ -125,15 +125,15 @@ margin: 10px 0;
  text-align: center;
 }
 
-.btn-signup: hover{
+.btn-signup a: hover{
 opacity: 1;
 }
 
-.btn-twitter: hover{
+.btn-twitter a: hover{
 opacity: 1;
 }
 
-.btn-facebook: hover{
+.btn-facebook a: hover{
 opacity: 1;
 }
 
@@ -205,7 +205,7 @@ background-color: #f7f7f7;
  border-radius: 4px;
 }
 
-.btn-message :active{
+.btn-message a:active{
  position: relative;
  top: 7px;
  box-shadow: none;
