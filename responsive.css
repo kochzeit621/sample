@@ -1,1 +1,53 @@
 
+@media(max-width: 1000px){
+
+.top-wrapper{
+  text-align: left;
+}
+
+.top-wrapper h1{
+  font-size: 32px;
+}
+
+.top-wrapper p{
+  font-size: 20px;
+}
+
+.lesson{
+  width: 50%;
+}
+
+}
+
+@media(max-width: 670px){
+
+  .header-right{
+    display: none;
+  }
+
+  .top-wrapper h1{
+    font-size: 25px;
+  }
+
+  .top-wrapper p{
+    font-size: 15px;
+  }
+
+  .btn{
+    width:100%;
+  }
+  .btn-facebook{
+    padding-bottom: 15px;
+  }
+
+  .lesson{
+    width: 100%;
+  }
+
+  .footer{
+    text-align: center;
+  }
+
+
+}
+
