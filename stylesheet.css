@@ -125,7 +125,15 @@ margin: 10px 0;
  text-align: center;
 }
 
-.btn: hover{
+.btn-signup: hover{
+opacity: 1;
+}
+
+.btn-twitter: hover{
+opacity: 1;
+}
+
+.btn-facebook: hover{
 opacity: 1;
 }
 
