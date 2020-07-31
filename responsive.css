@@ -21,7 +21,10 @@
 
 @media(max-width: 670px){
   
+ 
+  
   .menu-icon{
+    display: block;
     float: right;
     color: white;
     font-size: 3em;
